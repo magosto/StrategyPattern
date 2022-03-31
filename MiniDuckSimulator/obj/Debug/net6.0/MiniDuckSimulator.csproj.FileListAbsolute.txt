@@ -1,0 +1,15 @@
+C:\Users\matth\source\repos\MiniDuckSimulator\MiniDuckSimulator\obj\Debug\net6.0\MiniDuckSimulator.csproj.AssemblyReference.cache
+C:\Users\matth\source\repos\MiniDuckSimulator\MiniDuckSimulator\obj\Debug\net6.0\MiniDuckSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\source\repos\MiniDuckSimulator\MiniDuckSimulator\obj\Debug\net6.0\MiniDuckSimulator.AssemblyInfoInputs.cache
+C:\Users\matth\source\repos\MiniDuckSimulator\MiniDuckSimulator\obj\Debug\net6.0\MiniDuckSimulator.AssemblyInfo.cs
+C:\Users\matth\source\repos\MiniDuckSimulator\MiniDuckSimulator\obj\Debug\net6.0\MiniDuckSimulator.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\MiniDuckSimulator\MiniDuckSimulator\bin\Debug\net6.0\MiniDuckSimulator.exe
+C:\Users\matth\source\repos\MiniDuckSimulator\MiniDuckSimulator\bin\Debug\net6.0\MiniDuckSimulator.deps.json
+C:\Users\matth\source\repos\MiniDuckSimulator\MiniDuckSimulator\bin\Debug\net6.0\MiniDuckSimulator.runtimeconfig.json
+C:\Users\matth\source\repos\MiniDuckSimulator\MiniDuckSimulator\bin\Debug\net6.0\MiniDuckSimulator.dll
+C:\Users\matth\source\repos\MiniDuckSimulator\MiniDuckSimulator\bin\Debug\net6.0\MiniDuckSimulator.pdb
+C:\Users\matth\source\repos\MiniDuckSimulator\MiniDuckSimulator\obj\Debug\net6.0\MiniDuckSimulator.dll
+C:\Users\matth\source\repos\MiniDuckSimulator\MiniDuckSimulator\obj\Debug\net6.0\refint\MiniDuckSimulator.dll
+C:\Users\matth\source\repos\MiniDuckSimulator\MiniDuckSimulator\obj\Debug\net6.0\MiniDuckSimulator.pdb
+C:\Users\matth\source\repos\MiniDuckSimulator\MiniDuckSimulator\obj\Debug\net6.0\MiniDuckSimulator.genruntimeconfig.cache
+C:\Users\matth\source\repos\MiniDuckSimulator\MiniDuckSimulator\obj\Debug\net6.0\ref\MiniDuckSimulator.dll
